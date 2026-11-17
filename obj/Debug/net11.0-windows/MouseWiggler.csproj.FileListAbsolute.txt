@@ -1,0 +1,16 @@
+D:\DevelopmentWork\MouseWiggler\bin\Debug\net11.0-windows\MouseWiggler.exe
+D:\DevelopmentWork\MouseWiggler\bin\Debug\net11.0-windows\MouseWiggler.deps.json
+D:\DevelopmentWork\MouseWiggler\bin\Debug\net11.0-windows\MouseWiggler.runtimeconfig.json
+D:\DevelopmentWork\MouseWiggler\bin\Debug\net11.0-windows\MouseWiggler.runtimeconfig.dev.json
+D:\DevelopmentWork\MouseWiggler\bin\Debug\net11.0-windows\MouseWiggler.dll
+D:\DevelopmentWork\MouseWiggler\bin\Debug\net11.0-windows\MouseWiggler.pdb
+D:\DevelopmentWork\MouseWiggler\obj\Debug\net11.0-windows\MouseWiggler.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevelopmentWork\MouseWiggler\obj\Debug\net11.0-windows\MouseWiggler.AssemblyInfoInputs.cache
+D:\DevelopmentWork\MouseWiggler\obj\Debug\net11.0-windows\MouseWiggler.AssemblyInfo.cs
+D:\DevelopmentWork\MouseWiggler\obj\Debug\net11.0-windows\MouseWiggler.csproj.CoreCompileInputs.cache
+D:\DevelopmentWork\MouseWiggler\obj\Debug\net11.0-windows\MouseWiggler.dll
+D:\DevelopmentWork\MouseWiggler\obj\Debug\net11.0-windows\refint\MouseWiggler.dll
+D:\DevelopmentWork\MouseWiggler\obj\Debug\net11.0-windows\MouseWiggler.pdb
+D:\DevelopmentWork\MouseWiggler\obj\Debug\net11.0-windows\MouseWiggler.genruntimeconfig.cache
+D:\DevelopmentWork\MouseWiggler\obj\Debug\net11.0-windows\ref\MouseWiggler.dll
+D:\DevelopmentWork\MouseWiggler\obj\Debug\net11.0-windows\MouseWig.D64D1CDD.Up2Date
